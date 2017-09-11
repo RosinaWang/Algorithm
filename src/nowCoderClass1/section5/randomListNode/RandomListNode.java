@@ -5,8 +5,8 @@ package nowCoderClass1.section5.randomListNode;
  */
 public class RandomListNode {
     int label;
-    five.randomListNode.RandomListNode next = null;
-    five.randomListNode.RandomListNode random = null;
+    RandomListNode next = null;
+    RandomListNode random = null;
 
     RandomListNode(int label) {
         this.label = label;

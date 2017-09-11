@@ -5,8 +5,8 @@ package nowCoderClass1.section1.treePrint;
  */
 public class TreeNode {
     int val = 0;
-    first.treePrint.TreeNode left = null;
-    first.treePrint.TreeNode right = null;
+    TreeNode left = null;
+    TreeNode right = null;
     public TreeNode(int val) {
         this.val = val;
     }

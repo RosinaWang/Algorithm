@@ -5,8 +5,8 @@ package nowCoderClass1.section3.identicalTree;
  */
 public class TreeNode {
     int val = 0;
-    Three.identicalTree.TreeNode left = null;
-    Three.identicalTree.TreeNode right = null;
+    TreeNode left = null;
+    TreeNode right = null;
     public TreeNode(int val) {
         this.val = val;
     }

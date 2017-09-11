@@ -5,7 +5,7 @@ package nowCoderClass1.section5;
  */
 public class ListNode {
     int val;
-    five.ListNode next = null;
+    ListNode next = null;
 
     ListNode(int val) {
         this.val = val;
